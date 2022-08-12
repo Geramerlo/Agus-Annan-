@@ -1,0 +1,34 @@
+body {
+	background-color: light;
+	font-style: specimen ;
+}
+
+#galeria .col-lg-4 {
+	margin: 0 !important;
+	padding: 25px;
+}
+
+	navbar-nav {
+		position: absolute;
+		z-index: 1;
+		padding: 15px;
+}
+
+
+
+#galeria  img {
+	width: 100%;
+	height: 250px;
+	object-fit: cover;
+
+
+}
+
+#galeria img:hover {
+	border: 5px solid #f7f7f7;
+}
+
+	.row-cols-auto {
+		grid-auto-rows: 100%;
+
+}
