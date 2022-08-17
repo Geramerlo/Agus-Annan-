@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "http-server": "^14.1.1"
+  }
+"scripts" : {
+  "start": "node codigo.js"
+}
+"scripts" {
+  "dev": "gulp"
+}
+}
